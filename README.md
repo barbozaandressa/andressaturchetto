@@ -1,6 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'am+Andressa+Turchetto;I'm+from+Brazil;Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'am+Andressa+Barboza;I'm+from+Brazil;Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 I am an extremely creative person, driven by a passion for solving problems and the combination of entrepreneurship and technology. My true calling is innovation and digital transformation.
 
@@ -73,14 +73,14 @@ I am also an active participant in developer communities, always looking for new
 
 <p>
 You can contact me on the following social media platforms or by email at:
-📩 and.turchetto@gmail.com
+📩 barboza.code@gmail.com
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andressadev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
- <a href="https://github.com/AndressaTurchetto" target="_blank">
+ <a href="" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
  <a href="[https://discord.com/channels/847518545156112424/984895128596533258](https://discordapp.com/users/1171814308951380047)" target="_blank">
